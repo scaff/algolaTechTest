@@ -1,1 +1,1 @@
-# algolaTechTest
+# algoliaTechTest
